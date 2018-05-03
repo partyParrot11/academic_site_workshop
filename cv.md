@@ -1,11 +1,11 @@
 ---
 layout: resume
 ---
-## Currently
+# Currently
 
-Current Position Description
+I'm a parrot that parties at the university.
 
-## Education
+### Education
 
 `1990 - 1994`
 __University Name__
