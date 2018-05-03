@@ -7,8 +7,8 @@ I'm a parrot that parties at the university.
 
 ### Education
 
-`1990 - 1994`
-__University Name__
+`2001 - 2004`
+**Parrot University**
 Degree Awarded
 
 `1995 - 1997`
@@ -27,7 +27,7 @@ Name of Award, Organization
 ### Journals
 
 `1994`
-Article Title, Journal Title
+A Parrot's guide to Partying, Journal of Partying
 
 `1994`
 Article Title, Journal Title
